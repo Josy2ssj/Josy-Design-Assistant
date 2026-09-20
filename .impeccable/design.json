@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-14T00:00:00Z",
+  "title": "Design System: Josy Design Assistant",
+  "extensions": {
+    "colorMeta": {
+      "primary": {"role": "primary", "displayName": "Azul de acción"},
+      "bg": {"role": "neutral", "displayName": "Fondo perla"},
+      "ink": {"role": "neutral", "displayName": "Tinta grafito"}
+    },
+    "typographyMeta": {"display": {"displayName": "Bienvenida", "purpose": "Título de Inicio; Segoe UI de Windows."}},
+    "shadows": [
+      {"name": "panel", "value": "0 8px 28px #1825400c", "purpose": "Profundidad discreta en panel y navegación activa."},
+      {"name": "panel-dark", "value": "0 8px 28px #0002", "purpose": "Equivalente oscuro."},
+      {"name": "dialog", "value": "0 24px 80px #0003", "purpose": "Creación de un documento con foco protegido."}
+    ],
+    "motion": [
+      {"name": "controls", "value": "160ms", "purpose": "Fondo y sombra de controles."},
+      {"name": "arrival", "value": "220ms ease-out", "purpose": "Entrada de contenido, 5px a posición final; se anula con reduced-motion."}
+    ],
+    "breakpoints": [{"name": "desktop-compact", "value": "1150px"}]
+  },
+  "components": [
+    {"name":"Acción principal","kind":"button","refersTo":"button-primary","description":"Crear el siguiente objeto.","html":"<button class=\"ds-primary\">Nuevo proyecto</button>","css":".ds-primary{font:550 14px 'Segoe UI',sans-serif;background:var(--accent,#285ed4);color:#fff;border:0;border-radius:9px;padding:10px 15px;cursor:pointer;transition:filter .16s}.ds-primary:hover{filter:brightness(1.08)}.ds-primary:active{filter:brightness(.95)}.ds-primary:focus-visible{outline:3px solid var(--accent,#285ed4);outline-offset:3px}"},
+    {"name":"Acción secundaria","kind":"button","refersTo":"button-secondary","description":"Acciones de biblioteca y edición.","html":"<button class=\"ds-secondary\">Duplicar</button>","css":".ds-secondary{font:550 14px 'Segoe UI',sans-serif;background:var(--panel,#fff);color:var(--ink,#242831);border:0;box-shadow:inset 0 0 0 1px var(--line,#dce0e7);border-radius:9px;padding:10px 15px;cursor:pointer}.ds-secondary:hover{background:var(--rail,#eef0f4)}.ds-secondary:focus-visible{outline:3px solid var(--accent,#285ed4);outline-offset:3px}"},
+    {"name":"Campo","kind":"input","refersTo":"input","description":"Nombre y metadatos editables.","html":"<label class=\"ds-label\">Nombre<input class=\"ds-input\" placeholder=\"Nombre del proyecto\"></label>","css":".ds-label{display:grid;gap:8px;font:600 12px 'Segoe UI',sans-serif;color:var(--muted,#626b79)}.ds-input{font:400 14px 'Segoe UI',sans-serif;background:var(--panel,#fff);color:var(--ink,#242831);border:1px solid var(--line,#dce0e7);border-radius:8px;padding:10px 12px;caret-color:var(--accent,#285ed4)}.ds-input:focus{outline:2px solid var(--accent,#285ed4);outline-offset:1px}"},
+    {"name":"Navegación","kind":"nav","refersTo":"navigation","description":"Sección activa del estudio.","html":"<button class=\"ds-nav\">Moodboards</button>","css":".ds-nav{font:500 14px 'Segoe UI',sans-serif;background:var(--panel,#fff);color:var(--ink,#242831);border:0;border-radius:10px;padding:12px 15px;box-shadow:0 8px 28px #1825400c;cursor:pointer}.ds-nav:hover{background:var(--rail,#eef0f4)}.ds-nav:focus-visible{outline:3px solid var(--accent,#285ed4);outline-offset:3px}"},
+    {"name":"Etiqueta","kind":"chip","refersTo":"chip","description":"Indicador compacto no interactivo.","html":"<span class=\"ds-chip\">0.1</span>","css":".ds-chip{font:11px 'Segoe UI',sans-serif;background:var(--soft,#e7edfc);color:var(--accent,#285ed4);border-radius:6px;padding:4px 8px}"},
+    {"name":"Panel de contexto","kind":"card","refersTo":"card","description":"Agrupa campos relacionados.","html":"<section class=\"ds-sheet\"><h2>Dirección visual</h2><p>Vincula los moodboards de tu biblioteca.</p></section>","css":".ds-sheet{font:14px 'Segoe UI',sans-serif;background:var(--panel,#fff);color:var(--ink,#242831);border-radius:14px;padding:26px;box-shadow:0 8px 28px #1825400c}.ds-sheet h2{font-size:19px;font-weight:600;letter-spacing:-.3px;margin:0 0 23px}.ds-sheet p{color:var(--muted,#626b79);line-height:1.6;margin:0}"}
+  ],
+  "narrative": {
+    "northStar":"Estudio gráfico personal de Windows",
+    "overview":"Una biblioteca visual serena y un tablero de trabajo contextual. Las referencias y los proyectos aportan el color; la interfaz ofrece jerarquía y espacio.",
+    "keyCharacteristics":["Contenido protagonista","Segoe UI operativa","Superficies neutras","Temas claro y oscuro"],
+    "rules":[{"name":"Acento de acción","body":"Azul para acciones y foco; los colores de contenido son independientes del tema.","section":"colors"}],
+    "dos":["Conservar foco visible","Usar miniaturas reales","Respetar movimiento reducido"],
+    "donts":["No sustituir la biblioteca por métricas","No copiar macOS","No inventar datos de marcas"]
+  }
+}

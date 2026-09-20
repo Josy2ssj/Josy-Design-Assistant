@@ -1,0 +1,4 @@
+Node.js v24.20.0 para Windows, incluido desde la instalación local existente de este equipo.
+No se necesita npm ni descargar dependencias para ejecutar la aplicación.
+Proyecto y licencias de Node.js: https://github.com/nodejs/node/blob/v24.20.0/LICENSE
+El código de la aplicación no incluye dependencias de terceros de npm.

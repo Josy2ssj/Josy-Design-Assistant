@@ -1,0 +1,1 @@
+{"name":"josy-design-assistant","productName":"Josy Design Assistant","version":"0.1.0","private":true,"main":"src/server.js","scripts":{"start":"node src/server.js","check":"node --check src/server.js && node --check src/store.js && node --check src/renderer/app.js"}}

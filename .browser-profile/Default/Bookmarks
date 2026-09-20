@@ -1,0 +1,172 @@
+{
+   "checksum": "6cb47ff2e20c06012ce6b859a59a2d4a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13422736800215161",
+            "date_last_used": "13423169743906341",
+            "guid": "d0695377-626b-4187-a35a-869082eedf8a",
+            "id": "7",
+            "name": "Arena AI",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://arena.ai/",
+            "visit_count": 3
+         }, {
+            "date_added": "13422737031408357",
+            "date_last_used": "13423082904502312",
+            "guid": "909e2a11-d57c-4562-8e89-a7a29fdf9e79",
+            "id": "8",
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/",
+            "visit_count": 3
+         }, {
+            "date_added": "13422737091416075",
+            "date_last_used": "13423085213665720",
+            "guid": "b2162623-c444-4d0f-a1c5-d7c0d2b38586",
+            "id": "9",
+            "name": "Flow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://labs.google/fx/es-419/tools/flow/project/e287a62a-3bdd-43ac-927f-d8744b2ca729",
+            "visit_count": 2
+         }, {
+            "date_added": "13422737096939833",
+            "date_last_used": "13423081776888747",
+            "guid": "715e37a8-38bb-4895-a174-d5f4d202efa9",
+            "id": "10",
+            "name": "Prompt Esqueleto - Documentos de Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1xlOxI9e7UvUIAYlhgPAfKK4LyVkfc9a6186UHIco-Fs/edit?pli=1&tab=t.0#heading=h.b77pge3ryq84",
+            "visit_count": 2
+         }, {
+            "date_added": "13422737101067178",
+            "date_last_used": "0",
+            "guid": "528ec0a9-bb4e-4808-87c5-ca6da0b7d942",
+            "id": "11",
+            "name": "ESTE NUEVO NICHO ESTÁ EXPLOTANDO LOS SHORTS - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=CWAeONGVt_8",
+            "visit_count": 1
+         }, {
+            "date_added": "13422737120979008",
+            "date_last_used": "13423081781723920",
+            "guid": "cb58235e-ca35-4cef-8552-9a24abd18ba6",
+            "id": "12",
+            "name": "Greeting in Spanish - Claude",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://claude.ai/chat/29a922c5-b52b-442b-a181-4e1f2b49cdd8",
+            "visit_count": 3
+         }, {
+            "date_added": "13422738443617492",
+            "date_last_used": "13423081785645679",
+            "guid": "5da0a854-bbfc-4649-952a-39eb6625d39f",
+            "id": "13",
+            "name": "¿Qué pasaría si pudieras usar códigos de GTA 5 en la antigua Grecia?\" - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/shorts/gjLo19zgfYM",
+            "visit_count": 2
+         }, {
+            "date_added": "13422738543734743",
+            "date_last_used": "0",
+            "guid": "f9a828c2-4898-4b4f-9c14-be5711f8b2bb",
+            "id": "14",
+            "name": "Trucos Psicológicos 3D - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/@TrucosPsicol%C3%B3gicos3D/featured",
+            "visit_count": 1
+         }, {
+            "date_added": "13422738865352301",
+            "date_last_used": "0",
+            "guid": "1e683868-dad6-4017-84b6-f4e32175d9a0",
+            "id": "15",
+            "name": "Prompt Esqueleto 2 - Documentos de Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1lfkS7RmOSzhDczvVIMGBVwQhdGGNlPKQXg13NraF01g/edit?tab=t.0#heading=h.kwaxkcspi411",
+            "visit_count": 1
+         }, {
+            "date_added": "13422863106054981",
+            "date_last_used": "0",
+            "guid": "10694f1e-dd47-4641-be10-aefcb4484c9e",
+            "id": "16",
+            "name": "Entity of Brody - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/@EntityofBrody/shorts",
+            "visit_count": 1
+         }, {
+            "date_added": "13423171795858802",
+            "date_last_used": "0",
+            "guid": "a58c694d-b1a0-4974-b81f-1eddd738a19b",
+            "id": "17",
+            "name": "Flowise - Build AI Agents, Visually",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cloud.flowiseai.com/canvas",
+            "visit_count": 1
+         } ],
+         "date_added": "13434389582587321",
+         "date_last_used": "0",
+         "date_modified": "13423171795858802",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13434389582587321",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13434389582587321",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13434389582587321",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Áreas de trabajo",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCL7nSb+gAQAAKg4QABgBIAAoBTAAOABAABIAKhg0ZHkxK1JWc1N1SktRR01JVFlJaXNBPT1IA6AGDBKMAQgFEocBChx3UkJyWkwrNlBBOWF2S2dqTlA3SlhETGNmdnM9EiQ2N2U3NWI2My1mM2UzLTU3MzQtOWRlMy1kYzhhZTJkOGZlZDUYACAAKAAwodKI75ozOL/SiO+aM0C/0ojvmjNKHG5teDY1c1FEdnhJOFRnRWV2K0ErbnR0b1NuND1lAAAAAMI+AmAAEq0BCBESqAEKHGVySStyYkxkVTFKcTZYRE9wQkdLdEUzekNETT0SJGE1OGM2OTRkLWIxYTAtNDk3NC1iODFmLTFlZGRkNzM4YTE5YhgAIAAoADDNvLKV4jM4zcOyleIzQM3DspXiM0oca3NoMkllc1kyb0R2RGN0Nk82Rlg5dzNYZ2ZjPVofIh3/bExtQlRxS05NUi9waDhpV3FVZ29uRkpOb2djPWUDJAcAwj4CYAUSrQEIDxKoAQocNG9LNW0yRDBhYmEwdHBjQ1VkQmpGMTZGa1ZnPRIkMWU2ODM4NjgtZGFkNi00MDE3LTg0YjYtZjRlMzIxNzVkOWEwGAAgACgAMN/3/8bgMzjVi4DH4DNA1YuAx+AzShxLWFljVkdwZ0ttUFU0NHdSaGllYURBV0J4MEE9Wh8iHf9NR3hzU25ncEhVbTRGZVI0UDFhR29EMGhWQjQ9ZRlhYhvCPgJgBRKtAQgLEqgBChxaSGZIV3FDdmM5Z3JDS21RUjl3RTltaHNUd0U9EiQ1MjhlYzBhOS1iYjRlLTQ4MDgtODdjNS1jYTZkYTBiN2Q5NDIYACAAKAAw5Pf/xuAzONmOgMfgM0DZjoDH4DNKHFlCekF3WkdKQ21lclk3eUFjWUdPakplUVJwVT1aHyId9k14eWFhWVpiUmhWVzNCS2hGcWphcmFsMmQvdz1lUELD0sI+AmAFEq0BCA4SqAEKHFdWVk9XT1dnZ3hkZ0MwNGlXWDJMVjF5S3JYaz0SJGY5YTgyOGMyLTQ4OTgtNGI0Zi05YzE0LWJlNTcxMWY4YjJiYhgAIAAoADDd9//G4DM4romAx+AzQK6JgMfgM0ocMW9YL0R5VVJFanZzTHNkanRtU2VXOHNqVVJZPVofIh3+TEdVY0RtaGFISUhUekxFa0NISDFDK3NaVTNZPWVQQsPSwj4CYAUSrQEIDBKoAQocZDZUbEJmUktVaWJCUUUyaVZ6bFJLdFpWOGRrPRIkY2I1ODIzNWUtY2EzNS00Y2VmLTg1NTItOWEyNGFiZDE4YmE2GAAgACgAMIqgverhMzi4j4DH4DNAuI+Ax+AzShxlMGJFUWZzMExQdmp3dE14Vkp5QmkyOWEvZ0U9Wh8iHfszTHZacW9vUjYyQXBwZ21VSnY0UmhDeU12ZUk9ZQn0chLCPgJgBRKMAQgDEocBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQzZjViODFhOC0wNTFjLTUzYzMtOTNjNS04ZTY1YTM1ZmEyNzEYACAAKAAwyLC2mLEvONfJqqzrL0DXyaqs6y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1lAAAAAMI+AmAAEq0BCAoSqAEKHE1wK01EbWd4djA1QVdzenlkTlRvR1J1blAxTT0SJDcxNWUzN2E4LTM4YmItNDg5NS1hMTc0LWQ1ZjRkMjAyZWZhORgAIAAoADC7kLzq4TM4k46Ax+AzQJOOgMfgM0ocSnc0dlpuYkM5WURMNUxSclBySlozcHhzbE9NPVofIh3sblNYMGpWajBTTjJTSE1mWFczZXQxZUJGY1owPWUZYWIbwj4CYAUSrQEICBKoAQocY2pESG8wOWp6N2xjZ0tiaU5FL2NZbjhRQjFnPRIkOTA5ZTJhMTEtZDU3Yy00NTYyLThlODktYTdhMjlmZGY5ZTc5GAAgACgAMKH1gOvhMziejIDH4DNAnoyAx+AzShwwdmo5cU5lQ1lUUEw1YTZWaGl6RWMwLzhKL3c9Wh8iHbE0eHFNeE5laGJZSFFwbVUzZkFMY0I3eDVld3M9ZYal2MjCPgJgBRKtAQgJEqgBChxKZndWRFhRRG93RjBpcXdBNk43VnBsZVQwRnc9EiRiMjE2MjYyMy1jNDQ0LTRkMGYtYTFjNS1kN2MwZDJiMzg1ODYYACAAKAAwm7WO7OEzOOyMgMfgM0DsjIDH4DNKHGJueEV3MnVaSnE1ZiswUGZXUXdyc1RuOXhPTT1aHyId2EFObVVzaDVrWHprV2tSSTMzSE1BSDFDK1NWYz1lZ/kBb8I+AmAFEq0BCBASqAEKHFpDMWhwYmkwejhhVTIycWVTb2R6VW92c3djOD0SJDEwNjk0ZjFlLWRkNDctNDY0MS1iZTEwLWFlZmNiNDQ4NGM5ZRgAIAAoADCJ3/Ka4TM4ud/ymuEzQLnf8prhM0ocbG1vTUdBaHJPallEVEtaK3lLd1lOcDdJR0FrPVofIh3/ZkZxMHZ2SFFTR1ZRZG9FZk9VY1hiL1doUFRRPWVQQsPSwj4CYAUSjAEIAhKHAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZWQyOTJlNmYtNDI4Ni01NGUwLWFiMWItOWEyOTlhNTY5OGMzGAAgACgAMMiwtpixLziGyqqs6y9AhsqqrOsvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9ZQAAAADCPgJgABKsAQgHEqcBChxWMzZRWm1GT0dzQmF0UkgvNUo1UGZsbW12ckk9EiRkMDY5NTM3Ny02MjZiLTQxODctYTM1YS04NjkwODJlZWRmOGEYACAAKAAw95y1lOIzOPmKgMfgM0D5ioDH4DNKHHlRaWIrNVR2SEhONFBXMk5uUWd5N0ZKbUw4UT1aHiIcYlVFR015ZnZaVDkzZXdabXNvTEtsT1FGZkxFPWX4i0RQwj4CYAUSjAEIARKHAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZjc5NGFhZTctNjFkZi01NzlhLThjMTUtZThkZDgzMTRkZTlkGAAgACgAMMiwtpixLzilyqqs6y9ApcqqrOsvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9ZQAAAADCPgJgABKtAQgNEqgBChxhb2xvek9oLzA5Z1o5L0tsamtSL3ZpenFJdE09EiQ1ZGEwYTg1NC1iYmZjLTQ2NDktOTUyYS0zOWViNjYyNWQzOWYYACAAKAAwiaC96uEzOL2NgMfgM0C9jYDH4DNKHGlNNFdmVU5ZRTRPZzVFaldqK0RNSmE0Ym1jdz1aHyId/XQxeHliM2tHK3dyK3hsbWFOdHZFb1JTUWNMUT1lUELD0sI+AmAFMAA4AA==",
+   "version": 1
+}
